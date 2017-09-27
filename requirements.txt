@@ -1,6 +1,6 @@
-pandas==0.20.1
-geopandas==0.2.1
-geocoder==1.22.4
-googlemaps==2.4.6
+pandas==0.20.3
+geopandas==0.3.0
+geocoder==1.32.1
+googlemaps==2.5.1
 geojsonio==0.0.3
-Shapely==1.5.17
+Shapely==1.6.1
