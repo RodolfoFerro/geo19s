@@ -23,6 +23,4 @@ O puedes instalar de manera conjunta todos estos paquetes especificados en el ar
 pip install -r requirements.txt
 ```
 
-## Ejemplo de salida para visualización de zonas de derrube, acorde a la página oficial de [datos.gob.mx](https://datos.gob.mx/)
-
-<script src="https://gist.github.com/RodolfoFerro/f783ed4b1243ed5d2856dea43eb9de14.js"></script>
+### Ejemplo de salida para [visualización de zonas de derrube](https://gist.github.com/RodolfoFerro/f783ed4b1243ed5d2856dea43eb9de14), acorde a la página oficial de [datos.gob.mx](https://datos.gob.mx/)
