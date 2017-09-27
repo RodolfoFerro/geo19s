@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.17299999999999,
+          19.413
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.164,
+          19.387
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.165,
+          19.387
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14299999999999,
+          19.339000000000002
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09700000000001,
+          19.322
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.125,
+          19.305
+        ]
+      }
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.126,
+          19.305999999999997
+        ]
+      }
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14,
+          19.361
+        ]
+      }
+    },
+    {
+      "id": "8",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15799999999999,
+          19.387
+        ]
+      }
+    },
+    {
+      "id": "9",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.132,
+          19.297
+        ]
+      }
+    },
+    {
+      "id": "10",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.162,
+          19.402
+        ]
+      }
+    },
+    {
+      "id": "11",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.163,
+          19.414
+        ]
+      }
+    },
+    {
+      "id": "12",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.171,
+          19.421
+        ]
+      }
+    },
+    {
+      "id": "13",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.12700000000001,
+          19.329
+        ]
+      }
+    },
+    {
+      "id": "14",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.059212,
+          19.253894
+        ]
+      }
+    },
+    {
+      "id": "15",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15700000000001,
+          19.367
+        ]
+      }
+    },
+    {
+      "id": "16",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14,
+          19.422
+        ]
+      }
+    },
+    {
+      "id": "17",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16799999999999,
+          19.416
+        ]
+      }
+    },
+    {
+      "id": "18",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.148,
+          19.387999999999998
+        ]
+      }
+    },
+    {
+      "id": "19",
+      "type": "Feature",
+      "properties": {
+        "entidad": "CDMX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.123306,
+          19.493146
+        ]
+      }
+    },
+    {
+      "id": "20",
+      "type": "Feature",
+      "properties": {
+        "entidad": "CDMX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14137,
+          19.341583
+        ]
+      }
+    },
+    {
+      "id": "21",
+      "type": "Feature",
+      "properties": {
+        "entidad": "CDMX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.155275,
+          19.412643
+        ]
+      }
+    },
+    {
+      "id": "22",
+      "type": "Feature",
+      "properties": {
+        "entidad": "CDMX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15644300000001,
+          19.414592000000003
+        ]
+      }
+    },
+    {
+      "id": "23",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.134187,
+          19.37262
+        ]
+      }
+    },
+    {
+      "id": "24",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.057865,
+          19.253296
+        ]
+      }
+    },
+    {
+      "id": "25",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.123339,
+          19.292126
+        ]
+      }
+    },
+    {
+      "id": "26",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.169249,
+          19.41459
+        ]
+      }
+    },
+    {
+      "id": "27",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.135172,
+          19.283398000000002
+        ]
+      }
+    },
+    {
+      "id": "28",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.083048,
+          19.500259
+        ]
+      }
+    },
+    {
+      "id": "29",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.159926,
+          19.449258
+        ]
+      }
+    },
+    {
+      "id": "30",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.158742,
+          19.398364
+        ]
+      }
+    },
+    {
+      "id": "31",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.294916,
+          19.318658300000003
+        ]
+      }
+    },
+    {
+      "id": "32",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1703483,
+          19.4001086
+        ]
+      }
+    },
+    {
+      "id": "33",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15367579999999,
+          19.3657329
+        ]
+      }
+    },
+    {
+      "id": "34",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16990559999999,
+          19.4156305
+        ]
+      }
+    },
+    {
+      "id": "35",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1241323,
+          19.3576245
+        ]
+      }
+    },
+    {
+      "id": "36",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1010661,
+          19.248413199999998
+        ]
+      }
+    },
+    {
+      "id": "37",
+      "type": "Feature",
+      "properties": {
+        "entidad": "cdmx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1693905,
+          19.4163414
+        ]
+      }
+    }
+  ]
+}
